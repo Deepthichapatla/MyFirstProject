@@ -1,0 +1,79 @@
+.mydiv{
+    border: 1px solid black;
+    width: 33%;
+    margin: 20px;
+    position: relative;
+}
+.imgdiv{
+    width: 100%;
+    
+}
+
+body{
+    padding: 20px;
+}
+.imgdiv img{
+    width: 100%;        
+}
+.img_dis{
+    padding: 10px;
+}
+.price{
+    font-family: cursive;
+    font-weight: 700;
+    color: brown;
+}
+.res_name{
+    color: blue;
+    font-size: 16px;
+}
+.img_dis h2{
+    margin-bottom: 2px !Important;
+}
+.offers .fa{
+    color: orange;
+    font-size: 30px;
+}
+.myoff_icon{
+    position: relative;
+}
+.icon-text{
+    position: absolute;
+    color: white;
+    top: 9px;
+    left: 2px;
+    font-size: 12px !important;
+    color: black;
+}
+.IJsqo{
+    position: absolute;
+    left: -8px;
+    top: -3px;
+    background-color: #8a584b;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500;
+    padding: 5px 9px 4px;
+    max-width: 50%;
+    text-transform: uppercase;
+    border-color: #8a584b;
+    background: rgb(250, 74, 91); color: rgb(255, 255, 255); border-color: rgb(209, 42, 59) transparent;
+}
+._1kXWW{    
+    overflow: hidden;
+    white-space: nowrap;
+}
+.IJsqo::before {
+    position: absolute;
+    bottom: -9px;
+    content: "";
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-color: inherit;
+    left: 0;
+    border-width: 9px 0 0 9px;
+}
+._1kXWW::after {
+    box-sizing: inherit !important;
+}
